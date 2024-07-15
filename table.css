@@ -1,0 +1,22 @@
+body{
+	background-color: #fcc203;
+}
+
+
+table{
+	border: 1px solid black;
+	border-collapse: collapse;
+	width: 100%;
+}
+
+th, td{
+	padding: 1rem;
+	border: 1px solid black;
+	text-align: center;
+}
+
+th{
+	background-color: blue;
+	color: white;
+}
+
